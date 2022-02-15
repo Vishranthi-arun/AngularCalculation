@@ -243,8 +243,9 @@ font-size: large;
 ```
 
 ## OUTPUT:
+![OUTPUT](https://user-images.githubusercontent.com/93427278/154065018-0fe63482-c4d2-48f2-9aa4-5266e1aca404.png)
+![OUTPUT](https://user-images.githubusercontent.com/93427278/154065027-68b39a5b-3036-49fd-a94c-d470e798c03a.png)
 
-### Home Page:
 
 ## Result:
 Thus a Mathmetical Calculation website is created using Angular.
