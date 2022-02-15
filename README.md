@@ -235,7 +235,7 @@ font-size: large;
         <Cuboid-Volume class="formelement"></Cuboid-Volume>
     </div>
     <div class="footer">
-        Developed by Aashima Nazreen S
+        Developed by Vishranthi A
     </div>
     </div>
 
